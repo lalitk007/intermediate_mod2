@@ -32,10 +32,3 @@ The front-end is a React application that interacts with the smart contract usin
 
 - **Node.js** and **npm**: Ensure you have Node.js and npm installed on your machine.
 - **MetaMask**: Install the MetaMask extension in your browser.
-
-### Installation
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/school-grading-system.git
-   cd school-grading-system
